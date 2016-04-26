@@ -59,5 +59,6 @@ social:
 
 # Build settings
 markdown: kramdown
+include:  [".htaccess","CNAME"]
 #sass:
 #  style: compressed
