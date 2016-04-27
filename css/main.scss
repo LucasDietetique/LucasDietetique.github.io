@@ -1837,7 +1837,7 @@ $baseurl: '{{ site.baseurl }}/images';
 /* Vincent Lecrubier*/
 
 #cursive {
-	font-size: 130%;
+	font-size: 150%;
 	text-transform: none !important;
 	font-family: 'Kaushan Script', cursive;
 	letter-spacing:0!important;
@@ -1847,4 +1847,9 @@ $baseurl: '{{ site.baseurl }}/images';
 
 section.post-content {
 	// margin-top:40px;
+}
+
+.wrapper .inner p {
+	  text-align:justify;
+		text-align-last:center;
 }
