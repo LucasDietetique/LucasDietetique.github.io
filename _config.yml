@@ -63,3 +63,5 @@ include:  [".htaccess","CNAME"]
 incremental: false
 #sass:
 #  style: compressed
+gems:
+  - jekyll-sitemap
