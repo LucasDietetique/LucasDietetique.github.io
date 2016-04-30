@@ -61,7 +61,8 @@ social:
 markdown: kramdown
 include:  [".htaccess","CNAME"]
 incremental: false
-#sass:
-#  style: compressed
+sass:
+ style: compressed
 gems:
   - jekyll-sitemap
+  - jekyll-seo-tag
